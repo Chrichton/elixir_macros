@@ -1,7 +1,9 @@
 # ElixirMacros
 
-**quote do: 5 + 2**
-**quote do: 1 \* 2 + 3**
+**iex quote do**
+
+- quote do: 5 + 2\*
+- quote do: 1 \* 2 + 3\*
 
 ## Installation
 
